@@ -3,73 +3,89 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Frændir — Créateur d’univers ludiques</title>
-  <meta name="description" content="Frændir imagine des jeux accessibles et vivants. Découvrez Animoria, un univers de cartes consacré au monde animal.">
+  <title>Frændir — Plus loin ensemble</title>
+  <meta name="description" content="Frændir est une maison de création normande. Découvrez Animoria, notre premier univers de cartes consacré au monde animal.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23172f24'/%3E%3Cpath d='M17 43c12-2 21-10 28-25 3 15-2 28-17 29-5 0-9-1-11-4Z' fill='%23c6a85b'/%3E%3Cpath d='M22 42c7-5 13-11 19-19' fill='none' stroke='%23f6f1e6' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='8' fill='%23081720'/%3E%3Cpath d='M16 47V18h13v5h-7v7h7v5h-7v12zm32 0V18H35v5h7v7h-7v5h7v12zM32 47V17m0 10-6-5m6 5 6-5m-6 13-6-5m6 5 6-5' fill='none' stroke='%23e9e2d4' stroke-width='3'/%3E%3C/svg%3E">
 </head>
-<body>
-  <header class="site-header">
-    <a class="brand" href="index.html" aria-label="Accueil Frændir">Frændir</a>
+<body class="home-page">
+  <header class="site-header home-header">
+    <a class="brand" href="index.html" aria-label="Accueil Frændir">FRÆNDIR</a>
     <nav aria-label="Navigation principale">
+      <a href="#maison">La maison</a>
       <a href="#animoria">Animoria</a>
       <a href="#contact">Contact</a>
     </nav>
   </header>
 
   <main>
-    <section class="hero">
-      <div class="hero-copy">
-        <p class="eyebrow">Maison de création normande</p>
-        <h1>Des univers à partager,<br>des histoires à jouer.</h1>
-        <p class="lead">Frændir imagine des jeux accessibles, vivants et faits pour rassembler. Notre premier projet, Animoria, transforme la richesse du monde animal en une aventure de collection et de stratégie.</p>
-        <a class="button" href="#animoria">Découvrir Animoria</a>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-shade"></div>
+      <div class="hero-content">
+        <p class="eyebrow light">Maison de création normande</p>
+        <h1 id="hero-title">FRÆNDIR</h1>
+        <div class="hero-tagline"><span></span><p>Plus loin ensemble</p><span></span></div>
+        <a class="hero-link" href="#maison">Découvrir notre histoire</a>
       </div>
-
-      <div class="hero-mark" aria-hidden="true">
-        <div class="orbit orbit-one"></div>
-        <div class="orbit orbit-two"></div>
-        <div class="card-shape">
-          <span>TERRE</span>
-          <strong>A</strong>
-          <span>EAU · AIR</span>
-        </div>
-        <i class="dot dot-one"></i>
-        <i class="dot dot-two"></i>
-        <i class="dot dot-three"></i>
-      </div>
+      <a class="scroll-cue" href="#maison" aria-label="Faire défiler vers la présentation"><span></span></a>
     </section>
 
-    <section class="project" id="animoria">
-      <div>
-        <p class="eyebrow">Premier univers</p>
-        <h2>Animoria</h2>
+    <section class="manifesto" id="maison">
+      <div class="section-number">01</div>
+      <div class="manifesto-copy">
+        <p class="eyebrow">Notre histoire</p>
+        <h2>Créer des mondes<br>qui rassemblent.</h2>
+        <p class="intro">Frændir, c’est plus qu’un nom. C’est un lien, une histoire commune et l’envie de donner vie à des univers que l’on partage.</p>
+        <p>Née en Normandie et portée par deux cousins, notre maison imagine des projets accessibles, sincères et capables de réunir les générations autour d’une même aventure.</p>
       </div>
-      <div class="project-copy">
-        <p>Un jeu de cartes de combat où chaque animal révèle ses forces sur trois terrains : Terre, Eau et Air.</p>
-        <p>Animoria existe sous la forme d’un jeu physique et d’une application mobile centrée sur la collection, les combats et la découverte des espèces.</p>
-        <div class="pill-row" aria-label="Caractéristiques d’Animoria">
-          <span>150 cartes</span>
-          <span>Collection</span>
-          <span>Combat</span>
-          <span>Découverte</span>
-        </div>
+      <blockquote>
+        « Des racines pour point de départ.<br>De nouveaux horizons pour destination. »
+      </blockquote>
+    </section>
+
+    <section class="foundations" aria-label="Les fondations de Frændir">
+      <article><span>Des racines</span><h3>Une histoire</h3><p>Une passion commune devenue un projet de création.</p></article>
+      <article><span>Un territoire</span><h3>La Normandie</h3><p>Une identité forte, entre nature, mémoire et imagination.</p></article>
+      <article><span>Une aventure</span><h3>Des projets</h3><p>Des jeux et des univers pensés pour durer et évoluer.</p></article>
+      <article><span>Un lien</span><h3>Deux cousins</h3><p>Deux regards réunis par la même envie de créer.</p></article>
+    </section>
+
+    <section class="animoria" id="animoria">
+      <div class="animoria-heading">
+        <div><p class="eyebrow">Premier univers</p><h2>Animoria</h2></div>
+        <p>Un jeu de cartes de combat et de collection où chaque animal révèle ses forces sur trois terrains : Terre, Eau et Air. Un univers à découvrir dans le jeu physique et son application mobile.</p>
+      </div>
+
+      <div class="card-gallery" aria-label="Aperçu des cartes Animoria">
+        <figure class="game-card card-dodo"><img src="carte-dodo.png" width="768" height="1063" loading="lazy" alt="Carte Animoria du Dodo"><figcaption>Dodo <span>Columbidé</span></figcaption></figure>
+        <figure class="game-card card-canard"><img src="carte-canard-duclair.png" width="768" height="1063" loading="lazy" alt="Carte Animoria du Canard de Duclair"><figcaption>Canard de Duclair <span>Anatidé</span></figcaption></figure>
+        <figure class="game-card card-tigre"><img src="carte-tigre-bengale.png" width="768" height="1063" loading="lazy" alt="Carte Animoria du Tigre du Bengale"><figcaption>Tigre du Bengale <span>Félidé</span></figcaption></figure>
+        <figure class="game-card card-orque"><img src="carte-orque.png" width="768" height="1063" loading="lazy" alt="Carte Animoria de l’Orque"><figcaption>Orque <span>Delphinidé</span></figcaption></figure>
+      </div>
+
+      <div class="project-details">
+        <div><strong>150</strong><span>cartes à collectionner</span></div>
+        <div><strong>3</strong><span>terrains de combat</span></div>
+        <div><strong>2</strong><span>expériences complémentaires</span></div>
       </div>
     </section>
 
     <section class="contact" id="contact">
-      <p class="eyebrow">Nous contacter</p>
-      <h2>Une question sur Frændir ou Animoria&nbsp;?</h2>
+      <p class="eyebrow light">Nous contacter</p>
+      <h2>Écrivons la suite<br>ensemble.</h2>
+      <p>Une question sur Frændir ou sur l’univers Animoria&nbsp;?</p>
       <a class="mail" href="mailto:contact@fraendir.fr">contact@fraendir.fr</a>
     </section>
   </main>
 
   <footer>
+    <a class="footer-brand" href="index.html">FRÆNDIR</a>
+    <p>Plus loin ensemble</p>
+    <div><a href="confidentialite.html">Confidentialité</a><a href="mentions-legales.html">Mentions légales</a></div>
     <span>© 2026 Frændir</span>
-    <div>
-      <a href="confidentialite.html">Confidentialité</a>
-      <a href="mentions-legales.html">Mentions légales</a>
-    </div>
   </footer>
 </body>
 </html>
