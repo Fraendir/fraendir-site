@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "dodo",
+    "nom": "Dodo",
+    "scientifique": "Raphus cucullatus",
+    "type": "Terre",
+    "repartition": "Maurice, océan Indien",
+    "habitat": "Forêts de l’île Maurice",
+    "statut": "Éteint",
+    "description": "Oiseau incapable de voler, le dodo était endémique de l’île Maurice. Il a disparu au XVIIe siècle, après l’arrivée des humains et d’espèces introduites.",
+    "carte": "carte-dodo.png",
+    "photos": []
+  },
+  {
+    "slug": "canard-duclair",
+    "nom": "Canard de Duclair",
+    "scientifique": "Anas platyrhynchos domesticus",
+    "type": "Eau",
+    "repartition": "Normandie, France",
+    "habitat": "Élevage domestique",
+    "statut": "Race domestique",
+    "description": "Le canard de Duclair est une race domestique originaire de Normandie, traditionnellement associée à la région de Duclair.",
+    "carte": "carte-canard-duclair.png",
+    "photos": []
+  },
+  {
+    "slug": "tigre-bengale",
+    "nom": "Tigre du Bengale",
+    "scientifique": "Panthera tigris tigris",
+    "type": "Terre",
+    "repartition": "Sous-continent indien",
+    "habitat": "Forêts et prairies",
+    "statut": "En danger (tigre, espèce)",
+    "description": "Le tigre du Bengale est un grand félin vivant notamment en Inde et au Bangladesh. Prédateur solitaire, il occupe différents habitats, des forêts aux prairies.",
+    "carte": "carte-tigre-bengale.png",
+    "photos": []
+  },
+  {
+    "slug": "orque",
+    "nom": "Orque",
+    "scientifique": "Orcinus orca",
+    "type": "Eau",
+    "repartition": "Océans du monde",
+    "habitat": "Milieux marins",
+    "statut": "Données insuffisantes",
+    "description": "L’orque est le plus grand représentant de la famille des dauphins. Elle vit en groupes sociaux et se nourrit de proies variées selon les populations.",
+    "carte": "carte-orque.png",
+    "photos": []
+  }
+]
