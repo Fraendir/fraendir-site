@@ -15,7 +15,7 @@
     "anecdote": "Une abeille doit visiter plusieurs milliers de fleurs pour produire seulement 1 g de miel. Elle communique également avec ses congénères grâce à une danse indiquant la direction des fleurs riches en nectar.",
     "categorieCarte": "signature",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/12.png",
     "photos": []
   },
   {
@@ -34,7 +34,7 @@
     "anecdote": "L'aigle de Haast était le plus grand aigle connu ayant existé. Ses serres pouvaient atteindre une taille comparable à celles d'un tigre et lui permettaient de s'attaquer à des proies pesant plusieurs fois son propre poids. Il a probablement disparu vers le XVe siècle, après la disparition des moas chassés par les premiers habitants de Nouvelle-Zélande.",
     "categorieCarte": "nomade",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/1001.png",
     "photos": []
   },
   {
@@ -53,7 +53,7 @@
     "anecdote": "L'aigle royal peut fondre sur sa proie à plus de 240 km/h lors d'un piqué. Grâce à sa vue exceptionnelle, il est capable de repérer un lapin à plusieurs kilomètres de distance.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/1.png",
     "photos": []
   },
   {
@@ -72,7 +72,7 @@
     "anecdote": "Le ara bleu est le plus grand perroquet volant au monde. Son puissant bec est capable de casser des noix extrêmement dures que peu d'autres animaux peuvent ouvrir. Les couples sont très fidèles et restent généralement ensemble toute leur vie.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/109.png",
     "photos": []
   },
   {
@@ -91,7 +91,7 @@
     "anecdote": "L'ara de Spix est devenu mondialement célèbre grâce au film Rio. Il est également l'un des perroquets les plus rares au monde : il a été considéré comme éteint à l'état sauvage pendant plusieurs années, avant qu'un programme international permette de relancer sa réintroduction au Brésil.",
     "categorieCarte": "cards",
     "etoiles": "5",
-    "carte": "",
+    "carte": "cartes/110.png",
     "photos": []
   },
   {
@@ -110,7 +110,7 @@
     "anecdote": "L'arapaïma est capable de respirer de l'air à la surface grâce à un organe respiratoire très développé ressemblant à un poumon. Il doit ainsi remonter régulièrement à la surface pour respirer, généralement toutes les 10 à 20 minutes. C'est également l'un des plus grands poissons d'eau douce au monde.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/13.png",
     "photos": []
   },
   {
@@ -129,7 +129,7 @@
     "anecdote": "L'autruche est le plus grand oiseau vivant au monde. Incapable de voler, elle compense avec ses longues jambes : elle peut atteindre environ 70 km/h et maintenir une vitesse élevée sur plusieurs kilomètres. Ses puissantes pattes peuvent également infliger des coups dangereux à ses prédateurs.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/123.png",
     "photos": []
   },
   {
@@ -148,7 +148,7 @@
     "anecdote": "La baleine à bosse est célèbre pour ses chants complexes, principalement produits par les mâles pendant la période de reproduction. Un chant peut durer plusieurs dizaines de minutes et être répété pendant des heures. Elle est également connue pour ses impressionnants sauts hors de l'eau malgré son poids de plusieurs dizaines de tonnes.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/16.png",
     "photos": []
   },
   {
@@ -167,7 +167,7 @@
     "anecdote": "Le chant de la baleine bleue est l'un des sons les plus puissants du monde animal et peut être entendu par d'autres baleines à des centaines de kilomètres.",
     "categorieCarte": "signature",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/17.png",
     "photos": []
   },
   {
@@ -186,7 +186,7 @@
     "anecdote": "Le barracuda est un prédateur extrêmement rapide. Il peut atteindre environ 40 km/h lors d'une accélération et utiliser ses dents longues et tranchantes pour découper ses proies. Sa silhouette fuselée lui permet de surgir brutalement depuis un récif pour surprendre les poissons.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/119.png",
     "photos": []
   },
   {
@@ -205,7 +205,7 @@
     "anecdote": "Chez certaines baudroies abyssales, le mâle est minuscule comparé à la femelle. Il peut s'accrocher à elle de façon permanente et fusionner avec son corps, devenant ainsi une source de spermatozoïdes pour sa reproduction. La femelle utilise quant à elle un petit leurre lumineux situé au bout d'un filament pour attirer ses proies dans l'obscurité totale.",
     "categorieCarte": "nomade",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/1006.png",
     "photos": []
   },
   {
@@ -224,7 +224,7 @@
     "anecdote": "Le béluga est surnommé « canari des mers » en raison de son incroyable capacité à produire une grande variété de sons. Il peut émettre des sifflements, des clics et des grincements et utilise l'écholocation pour se repérer et chasser dans les eaux sombres de l'Arctique.",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/85.png",
     "photos": []
   },
   {
@@ -243,7 +243,7 @@
     "anecdote": "Le binturong est l'un des rares mammifères à posséder une queue préhensile. Il peut l'utiliser comme une cinquième patte pour s'accrocher aux branches. Il dégage également une odeur caractéristique souvent comparée à celle du pop-corn chaud, produite par un composé chimique présent dans son urine.",
     "categorieCarte": "fullart",
     "etoiles": "2",
-    "carte": "",
+    "carte": "cartes/145.png",
     "photos": []
   },
   {
@@ -262,7 +262,7 @@
     "anecdote": "Le bison d'Europe est le plus grand mammifère terrestre sauvage d'Europe. Il a pourtant failli disparaître : après l'extinction des derniers bisons sauvages au début du XXᵉ siècle, l'espèce a été sauvée grâce à quelques individus élevés en captivité, puis réintroduite progressivement dans plusieurs régions d'Europe.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/19.png",
     "photos": []
   },
   {
@@ -281,7 +281,7 @@
     "anecdote": "Le buffle d'Asie sauvage est l'un des plus grands bovins sauvages au monde. Il adore se baigner et se vautrer dans la boue pour se rafraîchir et se protéger des insectes. Ses impressionnantes cornes peuvent s'étendre sur plus de 2 mètres d'une extrémité à l'autre chez les plus grands mâles.",
     "categorieCarte": "nomade",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/1003.png",
     "photos": []
   },
   {
@@ -300,7 +300,7 @@
     "anecdote": "Le cacatoès soufré possède un bec très puissant capable de casser des noix dures et de détruire des morceaux de bois pour chercher de la nourriture ou construire son nid. Il peut aussi imiter des sons humains lorsqu'il est au contact des personnes.",
     "categorieCarte": "cards",
     "etoiles": "2",
-    "carte": "",
+    "carte": "cartes/24.png",
     "photos": []
   },
   {
@@ -319,7 +319,7 @@
     "anecdote": "Le caïman noir est le plus grand prédateur de l'Amazonie. Les adultes sont capables de s'attaquer à de très grandes proies, comme les capybaras, et peuvent même capturer des animaux de taille comparable à la leur.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/9.png",
     "photos": []
   },
   {
@@ -338,7 +338,7 @@
     "anecdote": "Le calao de Decken possède un bec particulièrement impressionnant, mais une grande partie de celui-ci est constituée d'une structure légère et creuse appelée casque. Lors de la reproduction, la femelle s'enferme dans une cavité d'arbre et le mâle lui apporte de la nourriture à travers une petite ouverture jusqu'à ce que les jeunes soient suffisamment grands.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/22.png",
     "photos": []
   },
   {
@@ -357,7 +357,7 @@
     "anecdote": "Le calmar géant a longtemps été considéré comme une créature légendaire. Les scientifiques n'ont observé un individu vivant dans son milieu naturel qu'au début du XXIᵉ siècle.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/14.png",
     "photos": []
   },
   {
@@ -376,7 +376,7 @@
     "anecdote": "Le caméléon panthère est célèbre pour ses couleurs spectaculaires, qui varient selon son origine géographique, son humeur, sa température corporelle et ses interactions avec d'autres caméléons.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/25.png",
     "photos": []
   },
   {
@@ -395,7 +395,7 @@
     "anecdote": "Le canard de Duclair est aussi surnommé « l'avocat » ou « barboteur de Normandie » en raison de son plumage noir à reflets verts et de sa caractéristique bavette blanche. La race fait l'objet de programmes de sauvegarde afin de préserver ce patrimoine avicole normand.",
     "categorieCarte": "fullart",
     "etoiles": "4",
-    "carte": "carte-canard-duclair.png",
+    "carte": "cartes/10.png",
     "photos": []
   },
   {
@@ -414,7 +414,7 @@
     "anecdote": "Le castor du Canada est un véritable ingénieur des écosystèmes. En construisant des barrages avec des branches, de la boue et des pierres, il peut transformer complètement un cours d'eau et créer des zones humides qui servent d'habitat à de nombreuses autres espèces.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/33.png",
     "photos": []
   },
   {
@@ -433,7 +433,7 @@
     "anecdote": "Chaque année, le mâle perd entièrement ses bois à la fin de l'hiver. Ils repoussent ensuite en seulement quelques mois, ce qui en fait l'un des tissus osseux à la croissance la plus rapide du règne animal.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/35.png",
     "photos": []
   },
   {
@@ -452,7 +452,7 @@
     "anecdote": "Chaque chat possède un ronronnement dont les vibrations se situent entre 25 et 150 Hz, une fréquence qui pourrait favoriser la cicatrisation des os et des tissus. C'est l'une des raisons pour lesquelles les chats ronronnent aussi bien lorsqu'ils sont détendus que lorsqu'ils sont blessés ou stressés.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/58.png",
     "photos": []
   },
   {
@@ -471,7 +471,7 @@
     "anecdote": "La chauve-souris rousse est l'une des premières chauves-souris à sortir au crépuscule. Grâce à son écholocation, elle peut repérer et capturer de minuscules insectes dans l'obscurité totale en émettant des ultrasons que l'oreille humaine ne peut pas entendre.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/143.png",
     "photos": []
   },
   {
@@ -490,7 +490,7 @@
     "anecdote": "La chauve-souris vampire possède des capteurs de chaleur autour du nez qui lui permettent de repérer les zones où le sang circule près de la peau. Sa salive contient une substance anticoagulante appelée drapine, qui empêche le sang de coaguler pendant qu'elle se nourrit.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/105.png",
     "photos": []
   },
   {
@@ -509,7 +509,7 @@
     "anecdote": "Le cheval de Przewalski est considéré comme le dernier véritable cheval sauvage encore vivant. Contrairement aux chevaux domestiques retournés à l'état sauvage, son nombre de chromosomes est différent de celui du cheval domestique : 66 contre 64. Il a disparu de la nature au XXᵉ siècle avant d'être progressivement réintroduit grâce à des programmes de conservation.",
     "categorieCarte": "cards",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/55.png",
     "photos": []
   },
   {
@@ -528,7 +528,7 @@
     "anecdote": "Le Golden Retriever est réputé pour son intelligence, sa douceur et sa grande capacité d'apprentissage. Grâce à son tempérament calme, il est souvent utilisé comme chien-guide pour les personnes malvoyantes, chien de recherche et de sauvetage, ou encore chien d'assistance.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/27.png",
     "photos": []
   },
   {
@@ -547,7 +547,7 @@
     "anecdote": "Le chimpanzé est l'un de nos plus proches cousins : il partage environ 98,8 % de son ADN avec l'Homme. Il est capable de fabriquer et d'utiliser des outils, comme des brindilles pour extraire des termites ou des pierres pour casser des noix.",
     "categorieCarte": "cards",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/70.png",
     "photos": []
   },
   {
@@ -566,7 +566,7 @@
     "anecdote": "L'effraie des clochers possède une ouïe parmi les plus précises du règne animal. Grâce à ses oreilles asymétriques et au disque en forme de cœur de son visage, elle peut localiser une souris dans l'obscurité totale avec une précision exceptionnelle.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/141.png",
     "photos": []
   },
   {
@@ -585,7 +585,7 @@
     "anecdote": "La cigogne blanche est capable de parcourir plus de 10 000 km lors de ses migrations entre l'Europe et l'Afrique. Elle profite des courants d'air chaud pour planer et économiser son énergie, car elle évite généralement de traverser de grandes étendues de mer.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/40.png",
     "photos": []
   },
   {
@@ -604,7 +604,7 @@
     "anecdote": "Le cobra royal est le plus long serpent venimeux du monde. Lorsqu'il se sent menacé, il peut redresser jusqu'à un tiers de son corps, déployer son capuchon et produire un grondement impressionnant en expulsant de l'air par ses voies respiratoires.",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/53.png",
     "photos": []
   },
   {
@@ -623,7 +623,7 @@
     "anecdote": "La coccinelle à sept points peut dévorer plusieurs dizaines de pucerons par jour. Ses couleurs rouges et noires constituent un avertissement pour les prédateurs : elles indiquent qu'elle est peu appétissante et capable de libérer un liquide jaune au goût désagréable lorsqu'elle se sent menacée.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/41.png",
     "photos": []
   },
   {
@@ -642,7 +642,7 @@
     "anecdote": "Le colibri d'Anna peut battre des ailes jusqu'à 50 fois par seconde. Il est également capable de voler sur place, en marche arrière et même brièvement la tête en bas, une prouesse que très peu d'oiseaux sont capables de réaliser.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/140.png",
     "photos": []
   },
   {
@@ -661,7 +661,7 @@
     "anecdote": "La colombe blanche est devenue un symbole universel de paix, d'amour et de pureté. Lors des mariages, les lâchers de colombes représentent traditionnellement l'union et le nouveau départ des mariés. En réalité, ces oiseaux sont généralement des pigeons domestiques sélectionnés pour leur plumage blanc.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/42.png",
     "photos": []
   },
   {
@@ -680,7 +680,7 @@
     "anecdote": "Le condor des Andes possède l'une des plus grandes envergures de tous les oiseaux capables de voler. Il peut parcourir des centaines de kilomètres en utilisant les courants d'air chaud pour planer sans presque battre des ailes, économisant ainsi énormément d'énergie.",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/34.png",
     "photos": []
   },
   {
@@ -699,7 +699,7 @@
     "anecdote": "Le cormoran huppé est un excellent plongeur. Il peut rester sous l'eau plus d'une minute et atteindre plusieurs dizaines de mètres de profondeur pour poursuivre ses proies. Pendant la période de reproduction, il arbore une petite huppe caractéristique sur la tête, à l'origine de son nom.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/100.png",
     "photos": []
   },
   {
@@ -718,7 +718,7 @@
     "anecdote": "Le coyote est un animal extrêmement adaptable. Il a réussi à coloniser des environnements très variés, y compris les grandes villes nord-américaines. Il est également capable de modifier son alimentation et son comportement pour s'adapter aux ressources disponibles.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/28.png",
     "photos": []
   },
   {
@@ -737,7 +737,7 @@
     "anecdote": "Malgré son nom, le crabe royal du Kamtchatka n'est pas un véritable crabe. Il appartient au groupe des anomoures, plus proches des bernard-l'ermite que des crabes « classiques ». Grâce à ses longues pattes, il peut parcourir plusieurs kilomètres sur les fonds marins à la recherche de nourriture.",
     "categorieCarte": "cards",
     "etoiles": "2",
-    "carte": "",
+    "carte": "cartes/79.png",
     "photos": []
   },
   {
@@ -756,7 +756,7 @@
     "anecdote": "Le crapaud commun n'avale pas d'eau comme les autres animaux : il absorbe l'humidité directement à travers sa peau, notamment grâce à une zone spécialisée située sur son ventre.",
     "categorieCarte": "cards",
     "etoiles": "2",
-    "carte": "",
+    "carte": "cartes/23.png",
     "photos": []
   },
   {
@@ -775,7 +775,7 @@
     "anecdote": "La crevette-mante possède l'un des coups les plus rapides du règne animal. Certaines espèces peuvent frapper leur proie à plus de 80 km/h, créant des bulles de cavitation qui produisent une seconde onde de choc capable d'assommer ou de briser une coquille.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/94.png",
     "photos": []
   },
   {
@@ -794,7 +794,7 @@
     "anecdote": "Le crocodile marin est le plus grand reptile vivant au monde. D'un simple coup de queue, il peut propulser tout son corps hors de l'eau pour capturer une proie ou atteindre une branche située à plusieurs mètres de hauteur.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/44.png",
     "photos": []
   },
   {
@@ -813,7 +813,7 @@
     "anecdote": "Le cygne tuberculé est l'un des plus grands oiseaux volants au monde. Le mâle possède une bosse noire caractéristique à la base de son bec, appelée tubercule, particulièrement développée pendant la période de reproduction. Les couples sont généralement très fidèles et peuvent rester ensemble pendant plusieurs années.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/11.png",
     "photos": []
   },
   {
@@ -832,7 +832,7 @@
     "anecdote": "Le dodo ne savait pas voler et n'avait presque aucun prédateur naturel sur l'île Maurice. Après l'arrivée des humains à la fin du XVIᵉ siècle, la chasse, la destruction de son habitat et les animaux introduits (rats, cochons et singes) ont provoqué son extinction en moins d'un siècle, faisant du dodo l'un des symboles les plus célèbres des espèces disparues.",
     "categorieCarte": "extinct",
     "etoiles": "5",
-    "carte": "carte-dodo.png",
+    "carte": "cartes/148.png",
     "photos": []
   },
   {
@@ -851,7 +851,7 @@
     "anecdote": "Le dragon de Komodo est le plus grand lézard vivant au monde. Sa morsure est redoutable grâce à ses dents tranchantes et à un venin qui empêche le sang de coaguler, affaiblissant rapidement ses proies.",
     "categorieCarte": "fullart",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/142.png",
     "photos": []
   },
   {
@@ -870,7 +870,7 @@
     "anecdote": "La bosse du dromadaire ne contient pas d'eau : elle est principalement constituée de graisse. Cette réserve d'énergie lui permet de survivre dans des conditions difficiles. Le dromadaire peut également boire plus de 100 litres d'eau en quelques minutes après une longue période sans boire.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/26.png",
     "photos": []
   },
   {
@@ -889,7 +889,7 @@
     "anecdote": "Le dugong est le seul mammifère marin exclusivement herbivore. En broutant les herbiers marins, il contribue à leur renouvellement et au bon équilibre des écosystèmes côtiers. Il est aussi l'un des animaux qui auraient inspiré les légendes des sirènes chez les anciens marins.",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/52.png",
     "photos": []
   },
   {
@@ -908,7 +908,7 @@
     "anecdote": "L'escargot géant africain est considéré comme l'un des plus grands escargots terrestres au monde. Il est hermaphrodite : chaque individu possède des organes reproducteurs mâles et femelles. Un seul escargot peut pondre plusieurs centaines d'œufs au cours de sa vie.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/4.png",
     "photos": []
   },
   {
@@ -927,7 +927,7 @@
     "anecdote": "L'espadon est l'un des poissons les plus rapides au monde. Grâce à son long rostre en forme d'épée, il peut assommer ou blesser ses proies d'un coup avant de les avaler. Il est également capable de maintenir ses yeux et son cerveau plus chauds que l'eau environnante, ce qui améliore sa vision lorsqu'il chasse en profondeur.",
     "categorieCarte": "cards",
     "etoiles": "2",
-    "carte": "",
+    "carte": "cartes/146.png",
     "photos": []
   },
   {
@@ -946,7 +946,7 @@
     "anecdote": "Malgré son immense taille, l'élan est un excellent nageur. Il peut parcourir plusieurs kilomètres dans l'eau et plonger jusqu'à environ 5 mètres de profondeur pour atteindre des plantes aquatiques dont il raffole.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/36.png",
     "photos": []
   },
   {
@@ -965,7 +965,7 @@
     "anecdote": "L'éléphant d'Afrique est le plus grand animal terrestre vivant. Sa trompe, composée de plus de 40 000 muscles, lui permet aussi bien de déraciner un arbre que de ramasser une simple brindille avec une précision remarquable.",
     "categorieCarte": "signature",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/54.png",
     "photos": []
   },
   {
@@ -984,7 +984,7 @@
     "anecdote": "L'émeu est le deuxième plus grand oiseau vivant au monde, après l'autruche. Incapable de voler, il peut courir jusqu'à 50 km/h et possède trois doigts à chaque patte, avec des jambes suffisamment puissantes pour infliger de sérieux coups de pied à ses prédateurs.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/32.png",
     "photos": []
   },
   {
@@ -1003,7 +1003,7 @@
     "anecdote": "Le faucon pèlerin est l'animal le plus rapide au monde. Lors d'un piqué pour capturer une proie, il peut dépasser 390 km/h, une vitesse inégalée dans le règne animal.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/57.png",
     "photos": []
   },
   {
@@ -1022,7 +1022,7 @@
     "anecdote": "Le fennec possède les plus grandes oreilles de tous les canidés par rapport à la taille de son corps. Elles lui permettent d'entendre les proies sous le sable et de dissiper la chaleur, ce qui l'aide à survivre dans les températures extrêmes du désert.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/29.png",
     "photos": []
   },
   {
@@ -1041,7 +1041,7 @@
     "anecdote": "Le flamant rose ne naît pas rose ! À la naissance, son plumage est gris ou blanc. Sa célèbre couleur apparaît progressivement grâce aux caroténoïdes, des pigments présents dans les algues et les petits crustacés dont il se nourrit.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/103.png",
     "photos": []
   },
   {
@@ -1060,7 +1060,7 @@
     "anecdote": "Le fou à pieds bleus doit son nom à ses pattes bleu vif, dont l'intensité dépend notamment de son état de santé et de son alimentation. Lors de la parade nuptiale, le mâle soulève alternativement ses pieds devant la femelle pour les mettre en valeur.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/126.png",
     "photos": []
   },
   {
@@ -1079,7 +1079,7 @@
     "anecdote": "Le frelon asiatique est un prédateur important des abeilles domestiques. Il peut rester en vol stationnaire devant une ruche et capturer les abeilles qui reviennent de butiner. En France, il est considéré comme une espèce exotique envahissante.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/144.png",
     "photos": []
   },
   {
@@ -1098,7 +1098,7 @@
     "anecdote": "Le gavial possède un museau extrêmement long et étroit, parfaitement adapté à la capture des poissons. Le mâle adulte développe également une excroissance au bout du museau appelée « ghara », qui lui sert à produire des sons et à attirer les femelles.",
     "categorieCarte": "cards",
     "etoiles": "5",
-    "carte": "",
+    "carte": "cartes/65.png",
     "photos": []
   },
   {
@@ -1117,7 +1117,7 @@
     "anecdote": "Le gecko à crête a longtemps été considéré comme éteint jusqu'à sa redécouverte en 1994, après une tempête en Nouvelle-Calédonie. Il est également capable de grimper sur des surfaces très lisses grâce aux millions de minuscules poils présents sous ses doigts.",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/51.png",
     "photos": []
   },
   {
@@ -1136,7 +1136,7 @@
     "anecdote": "La girafe réticulée possède un motif de robe composé de grandes taches polygonales séparées par de fines lignes blanches, ce qui lui donne son apparence caractéristique. Malgré son long cou, elle ne possède que sept vertèbres cervicales, comme la plupart des mammifères, mais chacune peut mesurer plus de 25 cm.",
     "categorieCarte": "cards",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/66.png",
     "photos": []
   },
   {
@@ -1155,7 +1155,7 @@
     "anecdote": "Malgré sa taille impressionnante, le gorille des montagnes est un animal paisible. Chaque groupe est dirigé par un dos argenté, un mâle adulte qui protège sa famille, prend les décisions et peut rassembler les siens d'un simple battement de poitrine.",
     "categorieCarte": "fullart",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/73.png",
     "photos": []
   },
   {
@@ -1174,7 +1174,7 @@
     "anecdote": "Le grand anaconda vert est considéré comme l'un des serpents les plus lourds au monde. Il passe une grande partie de son temps dans l'eau, où ses yeux et ses narines placés au sommet de sa tête lui permettent de rester presque entièrement immergé tout en surveillant son environnement.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/18.png",
     "photos": []
   },
   {
@@ -1193,7 +1193,7 @@
     "anecdote": "Le cachalot est le plus grand des cétacés à dents. Il peut plonger à plus de 2 000 mètres de profondeur et rester sous l'eau pendant plus d'une heure pour chasser des calmars dans les profondeurs. Son cerveau est également le plus lourd de tous les animaux connus.",
     "categorieCarte": "nomade",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/1009.png",
     "photos": []
   },
   {
@@ -1212,7 +1212,7 @@
     "anecdote": "Le grand dauphin communique grâce à un système complexe de sifflements et de clics. Chaque individu possède un « sifflement signature », comparable à un prénom, qui lui permet d'être reconnu par les autres dauphins de son groupe.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/48.png",
     "photos": []
   },
   {
@@ -1231,7 +1231,7 @@
     "anecdote": "Le grand pingouin était un excellent nageur mais incapable de voler. Ses petites ailes étaient parfaitement adaptées à la plongée. Il a été chassé intensivement pour sa viande, ses plumes et ses œufs, jusqu'à la disparition des derniers individus connus en 1844, sur l'île d'Eldey, en Islande.",
     "categorieCarte": "extinct",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/147.png",
     "photos": []
   },
   {
@@ -1250,7 +1250,7 @@
     "anecdote": "La grande sauterelle verte est un prédateur redoutable pour sa taille. Elle peut capturer des insectes presque aussi grands qu'elle grâce à ses longues pattes et à ses puissantes mandibules. Son chant caractéristique est produit par le frottement de ses ailes, surtout à la tombée de la nuit.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/131.png",
     "photos": []
   },
   {
@@ -1269,7 +1269,7 @@
     "anecdote": "Le perroquet gris du Gabon est considéré comme l'un des oiseaux les plus intelligents. Il peut mémoriser et reproduire des centaines de sons et comprendre certaines associations entre des mots, des objets et des actions. Certains individus peuvent également apprendre un très grand vocabulaire.",
     "categorieCarte": "cards",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/111.png",
     "photos": []
   },
   {
@@ -1288,7 +1288,7 @@
     "anecdote": "La grue du Japon est un symbole de longévité, de fidélité et de bonheur dans la culture japonaise. Les couples restent souvent unis toute leur vie et réalisent chaque année une spectaculaire danse nuptiale faite de sauts, de révérences et de battements d'ailes synchronisés.",
     "categorieCarte": "fullart",
     "etoiles": "2",
-    "carte": "",
+    "carte": "cartes/68.png",
     "photos": []
   },
   {
@@ -1307,7 +1307,7 @@
     "anecdote": "Le guépard est l'animal terrestre le plus rapide au monde. Il peut atteindre environ 100 à 110 km/h sur une courte distance, avec des accélérations fulgurantes. Sa longue queue lui sert de gouvernail pour effectuer des virages rapides lorsqu'il poursuit une proie.",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/59.png",
     "photos": []
   },
   {
@@ -1326,7 +1326,7 @@
     "anecdote": "Le gypaète barbu est surnommé « casseur d'os ». Lorsqu'un os est trop gros pour être avalé, il le transporte dans ses serres et le laisse tomber sur des rochers depuis plusieurs dizaines de mètres pour le briser. Il peut ainsi accéder à la moelle, une nourriture inaccessible à la plupart des autres charognards.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/2.png",
     "photos": []
   },
   {
@@ -1345,7 +1345,7 @@
     "anecdote": "Contrairement à la plupart des chouettes, le harfang des neiges chasse souvent en plein jour. Son plumage blanc lui offre un excellent camouflage dans la neige, tandis que les mâles deviennent presque entièrement blancs en vieillissant.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/121.png",
     "photos": []
   },
   {
@@ -1364,7 +1364,7 @@
     "anecdote": "Le héron cendré peut rester totalement immobile pendant de longues minutes avant de lancer son bec comme un harpon pour attraper un poisson.",
     "categorieCarte": "cards",
     "etoiles": "2",
-    "carte": "",
+    "carte": "cartes/15.png",
     "photos": []
   },
   {
@@ -1383,7 +1383,7 @@
     "anecdote": "Le hibou grand-duc d'Europe est l'un des plus grands rapaces nocturnes au monde. Grâce à ses ailes spécialement adaptées, il vole presque sans bruit, ce qui lui permet de surprendre ses proies avec une efficacité redoutable.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/122.png",
     "photos": []
   },
   {
@@ -1402,7 +1402,7 @@
     "anecdote": "Chez l'hippocampe commun, c'est le mâle qui porte les petits. La femelle dépose ses œufs dans une poche située sur son ventre, où ils se développent jusqu'à l'éclosion. Le mâle « accouche » ensuite de dizaines, voire de centaines de jeunes hippocampes.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/128.png",
     "photos": []
   },
   {
@@ -1421,7 +1421,7 @@
     "anecdote": "Malgré son apparence massive, l'hippopotame amphibie peut courir jusqu'à 30 km/h sur de courtes distances. Il sécrète également un liquide rougeâtre surnommé « sueur de sang », qui n'est pas du sang mais une substance naturelle protégeant sa peau des rayons du Soleil et des infections.",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/69.png",
     "photos": []
   },
   {
@@ -1440,7 +1440,7 @@
     "anecdote": "Chaque année, l'hirondelle rustique peut parcourir plus de 10 000 kilomètres lors de sa migration entre l'Europe et l'Afrique. Elle passe la majeure partie de sa journée en vol et peut même boire et se nourrir sans se poser.",
     "categorieCarte": "cards",
     "etoiles": "2",
-    "carte": "",
+    "carte": "cartes/74.png",
     "photos": []
   },
   {
@@ -1459,7 +1459,7 @@
     "anecdote": "Le homard européen possède deux pinces très différentes : l'une sert principalement à écraser les proies et l'autre à les découper ou les saisir. Il peut également régénérer une pince ou une patte perdue lors d'une mue.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/90.png",
     "photos": []
   },
   {
@@ -1478,7 +1478,7 @@
     "anecdote": "Une seule huître peut filtrer plusieurs dizaines de litres d'eau par jour. En retirant le plancton et les particules en suspension, elle contribue à améliorer la qualité de l'eau et joue un rôle important dans les écosystèmes côtiers.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/96.png",
     "photos": []
   },
   {
@@ -1497,7 +1497,7 @@
     "anecdote": "La huppe fasciée peut déployer sa magnifique crête en éventail lorsqu'elle est excitée ou qu'elle se sent menacée. Son long bec lui permet également de sonder la terre à la recherche de proies cachées, parfois plusieurs centimètres sous la surface.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/134.png",
     "photos": []
   },
   {
@@ -1516,7 +1516,7 @@
     "anecdote": "La hyène tachetée possède une puissance de morsure exceptionnelle. Ses mâchoires et ses dents sont capables de broyer des os très résistants, lui permettant d'exploiter presque entièrement les carcasses et de ne laisser que très peu de déchets. Et contrairement à une idée reçue, elle est une excellente chasseuse, capable de poursuivre ses proies sur plusieurs kilomètres.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/75.png",
     "photos": []
   },
   {
@@ -1535,7 +1535,7 @@
     "anecdote": "L'ibis rouge ne naît pas rouge ! Les jeunes sont gris-brun et acquièrent progressivement leur spectaculaire plumage écarlate grâce aux caroténoïdes contenus dans les crustacés qu'ils consomment, un phénomène similaire à celui du flamant rose.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/137.png",
     "photos": []
   },
   {
@@ -1554,7 +1554,7 @@
     "anecdote": "Le kangourou roux est le plus grand marsupial vivant. Grâce à ses puissantes pattes arrière, il peut effectuer des bonds de 9 mètres de long et atteindre une vitesse de 70 km/h sur de courtes distances.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/81.png",
     "photos": []
   },
   {
@@ -1573,7 +1573,7 @@
     "anecdote": "Le lamantin est surnommé la « vache de mer » en raison de son régime exclusivement herbivore. Il passe jusqu'à 8 heures par jour à brouter des plantes aquatiques et peut en consommer plus de 10 % de son poids quotidiennement.",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/139.png",
     "photos": []
   },
   {
@@ -1592,7 +1592,7 @@
     "anecdote": "La libellule peut voler dans toutes les directions et possède une vision presque à 360°. Elle peut capturer jusqu’à 95 % de ses proies en vol.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/5.png",
     "photos": []
   },
   {
@@ -1611,7 +1611,7 @@
     "anecdote": "Le « lion d'Angola » n'est pas une espèce distincte, mais une population régionale du lion d'Afrique. Les mâles peuvent parcourir plusieurs dizaines de kilomètres pour trouver un nouveau territoire ou rejoindre une troupe, jouant ainsi un rôle essentiel dans le brassage génétique des populations.",
     "categorieCarte": "signature",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/62.png",
     "photos": []
   },
   {
@@ -1630,7 +1630,7 @@
     "anecdote": "Le loup gris vit en meute, une famille très organisée où chaque membre joue un rôle. Ses hurlements peuvent être entendus à plus de 10 kilomètres et servent à communiquer, défendre son territoire et rassembler la meute.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/30.png",
     "photos": []
   },
   {
@@ -1649,7 +1649,7 @@
     "anecdote": "La loutre de mer est l'un des rares mammifères à utiliser des outils. Elle casse les coquillages en les frappant contre une pierre qu'elle conserve parfois dans une poche de peau située sous son bras. Elle dort également en s'enroulant dans les algues pour ne pas dériver avec les courants.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/89.png",
     "photos": []
   },
   {
@@ -1668,7 +1668,7 @@
     "anecdote": "Les oreilles du lynx se terminent par de petits pinceaux de poils noirs qui pourraient améliorer sa perception des sons. Ses larges pattes couvertes de poils fonctionnent comme des raquettes naturelles, lui permettant de se déplacer plus facilement sur la neige.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/63.png",
     "photos": []
   },
   {
@@ -1687,7 +1687,7 @@
     "anecdote": "Le macareux moine peut transporter plusieurs poissons à la fois dans son bec, parfois une dizaine ou davantage. Sa langue et les petites épines de son palais lui permettent de maintenir les poissons déjà capturés tout en continuant à en attraper d'autres.",
     "categorieCarte": "fullart",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/8.png",
     "photos": []
   },
   {
@@ -1706,7 +1706,7 @@
     "anecdote": "Le manchot du Cap est surnommé le « manchot braillard » en raison de son cri puissant, qui ressemble au braiment d'un âne. Les taches noires présentes sur sa poitrine sont uniques à chaque individu, un peu comme des empreintes digitales chez l'Homme.",
     "categorieCarte": "cards",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/118.png",
     "photos": []
   },
   {
@@ -1725,7 +1725,7 @@
     "anecdote": "Le manchot empereur est le plus grand de tous les manchots. En hiver, le mâle couve seul l'œuf pendant près de 65 jours, posé sur ses pattes et protégé sous un repli de peau, tandis que la femelle parcourt parfois plus de 100 km pour aller se nourrir en mer.",
     "categorieCarte": "fullart",
     "etoiles": "2",
-    "carte": "",
+    "carte": "cartes/117.png",
     "photos": []
   },
   {
@@ -1744,7 +1744,7 @@
     "anecdote": "La mante religieuse possède des pattes avant extrêmement rapides et puissantes. Elle peut les déployer en une fraction de seconde pour saisir une proie avec une précision remarquable. Chez certaines espèces, la femelle peut également dévorer le mâle pendant ou après l'accouplement.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/83.png",
     "photos": []
   },
   {
@@ -1763,7 +1763,7 @@
     "anecdote": "Le markhor est immédiatement reconnaissable à ses spectaculaires cornes torsadées en forme de tire-bouchon, qui peuvent dépasser 1,50 m chez certains mâles. Excellent grimpeur, il est capable de se déplacer sur des falaises et des pentes rocheuses extrêmement escarpées pour échapper aux prédateurs.",
     "categorieCarte": "nomade",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/1004.png",
     "photos": []
   },
   {
@@ -1782,7 +1782,7 @@
     "anecdote": "Le martin-pêcheur d'Europe peut plonger dans l'eau à grande vitesse pour attraper un poisson, puis ressortir en quelques secondes grâce à son corps parfaitement adapté à la pêche.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/7.png",
     "photos": []
   },
   {
@@ -1801,7 +1801,7 @@
     "anecdote": "La méduse à crinière de lion est considérée comme l'une des plus grandes méduses du monde. Ses centaines de tentacules peuvent s'étendre sur plusieurs dizaines de mètres et sont recouverts de cellules urticantes capables de paralyser de petites proies.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/47.png",
     "photos": []
   },
   {
@@ -1820,7 +1820,7 @@
     "anecdote": "La méduse lune est composée à plus de 95 % d'eau. Ses tentacules sont faiblement urticants pour l'Homme, mais ils suffisent à immobiliser ses minuscules proies avant qu'elle ne les dirige vers sa bouche située au centre de son ombrelle.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/133.png",
     "photos": []
   },
   {
@@ -1839,7 +1839,7 @@
     "anecdote": "La mésange bleue est une excellente acrobate. Elle peut se suspendre la tête en bas aux branches les plus fines pour attraper des insectes inaccessibles à la plupart des autres oiseaux. Au printemps, un seul couple peut capturer plusieurs milliers de chenilles pour nourrir ses petits.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/98.png",
     "photos": []
   },
   {
@@ -1858,7 +1858,7 @@
     "anecdote": "Les impressionnantes défenses du morse de l'Atlantique peuvent atteindre 1 mètre de long. Elles lui servent à se défendre, à établir sa dominance entre mâles et à se hisser hors de l'eau sur la banquise, un comportement appelé tooth-walking (« marche avec les défenses »).",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/93.png",
     "photos": []
   },
   {
@@ -1877,7 +1877,7 @@
     "anecdote": "La mouche domestique possède des milliers de petits yeux regroupés dans ses yeux composés, ce qui lui donne un champ de vision très large. Elle peut également détecter des mouvements beaucoup plus rapidement que l'être humain, ce qui explique pourquoi elle est si difficile à attraper.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/88.png",
     "photos": []
   },
   {
@@ -1896,7 +1896,7 @@
     "anecdote": "La mouette rieuse n'est pas uniquement une espèce côtière : elle fréquente aussi beaucoup les lacs, étangs et rivières à l'intérieur des terres. Son nom vient de son cri caractéristique, qui peut donner l'impression qu'elle « rit ».",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/77.png",
     "photos": []
   },
   {
@@ -1915,7 +1915,7 @@
     "anecdote": "Contrairement à la plupart des moustiques, le moustique tigre pique principalement en journée, surtout tôt le matin et en fin d'après-midi. Son vol est silencieux et il peut transmettre plusieurs maladies comme la dengue, le chikungunya ou le virus Zika.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/45.png",
     "photos": []
   },
   {
@@ -1934,7 +1934,7 @@
     "anecdote": "La mygale à pattes rouges possède des poils urticants sur son abdomen qu'elle peut projeter vers un prédateur en les frottant avec ses pattes arrière. Ces minuscules poils peuvent provoquer une forte irritation de la peau et des yeux. Malgré son apparence impressionnante, elle préfère généralement fuir plutôt que d'affronter un prédateur.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/132.png",
     "photos": []
   },
   {
@@ -1953,7 +1953,7 @@
     "anecdote": "La célèbre « corne » du narval est en réalité une dent pouvant mesurer jusqu'à 3 mètres de long. Elle est parcourue par des millions de terminaisons nerveuses, ce qui lui permet de détecter des variations de température, de salinité et de pression de l'eau.",
     "categorieCarte": "cards",
     "etoiles": "2",
-    "carte": "",
+    "carte": "cartes/86.png",
     "photos": []
   },
   {
@@ -1972,7 +1972,7 @@
     "anecdote": "L'okapi est le seul proche parent vivant de la girafe. Malgré ses rayures ressemblant à celles d'un zèbre, il appartient bien à la famille des girafidés. Ses rayures permettent notamment aux petits de suivre leur mère dans la végétation dense de la forêt.",
     "categorieCarte": "cards",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/67.png",
     "photos": []
   },
   {
@@ -1991,7 +1991,7 @@
     "anecdote": "L'orang-outan de Bornéo est l'un des animaux les plus intelligents au monde. Chaque soir, il construit un nouveau nid avec des branches et des feuilles pour y passer la nuit, parfois à plus de 20 mètres de hauteur dans les arbres.",
     "categorieCarte": "cards",
     "etoiles": "5",
-    "carte": "",
+    "carte": "cartes/71.png",
     "photos": []
   },
   {
@@ -2010,7 +2010,7 @@
     "anecdote": "L'ornithorynque est l'un des rares mammifères à pondre des œufs. Le mâle possède également un éperon venimeux sur ses pattes arrière, capable d'infliger une douleur très intense. Pour chasser, il ferme les yeux, les oreilles et les narines sous l'eau et utilise son bec pour détecter les faibles signaux électriques produits par ses proies.",
     "categorieCarte": "cards",
     "etoiles": "2",
-    "carte": "",
+    "carte": "cartes/95.png",
     "photos": []
   },
   {
@@ -2029,7 +2029,7 @@
     "anecdote": "L'orque est le plus grand représentant de la famille des dauphins. Très intelligente, elle chasse souvent en groupe en utilisant des stratégies coordonnées, comme créer des vagues pour faire tomber des phoques de la banquise ou encercler des bancs de poissons avant de les capturer.",
     "categorieCarte": "signature",
     "etoiles": "1",
-    "carte": "carte-orque.png",
+    "carte": "cartes/49.png",
     "photos": []
   },
   {
@@ -2048,7 +2048,7 @@
     "anecdote": "Contrairement aux phoques, l'otarie de Californie peut marcher sur la terre ferme en repliant ses nageoires arrière sous son corps. Très intelligente, elle apprend rapidement de nouveaux comportements, ce qui explique pourquoi elle est souvent choisie pour participer à des programmes de recherche et de sensibilisation dans les aquariums.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/97.png",
     "photos": []
   },
   {
@@ -2067,7 +2067,7 @@
     "anecdote": "Le ouistiti pygmée est le plus petit singe du monde. Il est si léger qu'un adulte pèse à peine autant qu'une pomme et peut tourner sa tête à près de 180° pour surveiller les prédateurs tout en restant accroché aux arbres.",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/72.png",
     "photos": []
   },
   {
@@ -2086,7 +2086,7 @@
     "anecdote": "Contrairement aux apparences, la peau de l'ours blanc est noire et ses poils sont transparents. Ils diffusent la lumière, ce qui lui donne sa couleur blanche et lui permet de mieux se camoufler sur la banquise. Son odorat est si développé qu'il peut détecter un phoque à plus d'un kilomètre de distance, même sous la neige.",
     "categorieCarte": "fullart",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/136.png",
     "photos": []
   },
   {
@@ -2105,7 +2105,7 @@
     "anecdote": "Malgré son imposante carrure, l'ours brun d'Europe peut courir jusqu'à 50 km/h sur de courtes distances. Son odorat est exceptionnel : il peut détecter une source de nourriture à plusieurs kilomètres de distance, bien avant de pouvoir la voir.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/135.png",
     "photos": []
   },
   {
@@ -2124,7 +2124,7 @@
     "anecdote": "Le panda roux possède un « faux pouce », un os de son poignet qui lui permet de saisir les tiges de bambou presque comme avec une vraie main.",
     "categorieCarte": "cards",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/6.png",
     "photos": []
   },
   {
@@ -2143,7 +2143,7 @@
     "anecdote": "La panthère des neiges peut effectuer des bonds de 15 mètres pour capturer une proie. Sa longue queue, presque aussi grande que son corps, lui sert de balancier lorsqu'elle saute et de couverture pour protéger son museau du froid lorsqu'elle se repose.",
     "categorieCarte": "fullart",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/61.png",
     "photos": []
   },
   {
@@ -2162,7 +2162,7 @@
     "anecdote": "La magnifique traîne du paon mâle n'est pas sa véritable queue : elle est constituée de longues plumes de couverture. Lors de la parade nuptiale, il déploie ces plumes en éventail et les fait vibrer pour attirer les femelles. Les motifs en forme d'yeux sont appelés ocelles.",
     "categorieCarte": "nomade",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/1008.png",
     "photos": []
   },
   {
@@ -2181,7 +2181,7 @@
     "anecdote": "Le papillon monarque réalise l'une des plus longues migrations du monde chez les insectes. Certaines populations parcourent jusqu'à 4 000 km entre le Canada et le Mexique, un voyage accompli sur plusieurs générations, sauf pour la génération migratrice qui effectue le trajet complet.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/91.png",
     "photos": []
   },
   {
@@ -2200,7 +2200,7 @@
     "anecdote": "Le paresseux à trois doigts passe la majorité de sa vie dans les arbres et peut dormir jusqu'à 15 heures par jour. Son métabolisme extrêmement lent lui permet d'économiser son énergie, tandis que les algues qui poussent dans son pelage lui offrent un camouflage naturel parmi les feuilles.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/21.png",
     "photos": []
   },
   {
@@ -2219,7 +2219,7 @@
     "anecdote": "Le pélican blanc possède une immense poche extensible sous son bec pouvant contenir plusieurs litres d'eau. Contrairement à une idée reçue, il ne stocke pas l'eau dans cette poche : il l'utilise comme une épuisette pour capturer les poissons, puis évacue l'eau avant de les avaler.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/99.png",
     "photos": []
   },
   {
@@ -2238,7 +2238,7 @@
     "anecdote": "Le phacochère possède quatre défenses : deux grandes défenses supérieures recourbées vers le haut et deux plus petites défenses inférieures. Lorsqu'il court pour fuir un prédateur, il peut atteindre environ 50 km/h et relève souvent sa queue bien droite, comme un petit drapeau, permettant aux membres de son groupe de le suivre.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/124.png",
     "photos": []
   },
   {
@@ -2257,7 +2257,7 @@
     "anecdote": "Le phoque commun peut rester plus de 20 minutes sous l'eau en ralentissant son rythme cardiaque. Ses longues moustaches, appelées vibrisses, sont si sensibles qu'elles lui permettent de suivre les mouvements d'un poisson même dans une eau sombre ou trouble.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/102.png",
     "photos": []
   },
   {
@@ -2276,7 +2276,7 @@
     "anecdote": "La physalie ressemble à une méduse, mais ce n'est pas une méduse : c'est une colonie composée de nombreux organismes spécialisés vivant ensemble. Ses tentacules peuvent provoquer des piqûres très douloureuses, même lorsque l'animal est échoué sur la plage.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/106.png",
     "photos": []
   },
   {
@@ -2295,7 +2295,7 @@
     "anecdote": "La pieuvre géante du Pacifique possède trois cœurs et un sang de couleur bleue, riche en hémocyanine, qui transporte l'oxygène dans les eaux froides. Elle est également capable de résoudre des problèmes complexes et de s'échapper par des ouvertures à peine plus larges que son bec.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/92.png",
     "photos": []
   },
   {
@@ -2314,7 +2314,7 @@
     "anecdote": "Le pigeon biset possède un remarquable sens de l'orientation. Il est capable de retrouver son nid à plusieurs centaines de kilomètres grâce à une combinaison de repères visuels, de la position du Soleil et du champ magnétique terrestre.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/43.png",
     "photos": []
   },
   {
@@ -2333,7 +2333,7 @@
     "anecdote": "Contrairement à une idée reçue, le poisson rouge possède une excellente mémoire. Il est capable de reconnaître son propriétaire, d'apprendre à suivre un parcours simple et de mémoriser certaines habitudes pendant plusieurs mois.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/46.png",
     "photos": []
   },
   {
@@ -2352,7 +2352,7 @@
     "anecdote": "Le poisson-clown à trois bandes vit en symbiose avec les anémones de mer. Un mucus spécial recouvrant sa peau le protège de leurs cellules urticantes, ce qui lui permet d'y trouver refuge contre les prédateurs. Si la femelle dominante disparaît, le plus grand mâle du groupe se transforme en femelle pour assurer la reproduction.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/107.png",
     "photos": []
   },
   {
@@ -2371,7 +2371,7 @@
     "anecdote": "Le poisson-lune est considéré comme le plus lourd des poissons osseux. Malgré son apparence massive, il peut effectuer de longues plongées et remonter régulièrement près de la surface pour se réchauffer au soleil, ce qui lui a valu son nom.",
     "categorieCarte": "nomade",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/1007.png",
     "photos": []
   },
   {
@@ -2390,7 +2390,7 @@
     "anecdote": "Le poisson-pierre est considéré comme l'un des poissons les plus venimeux au monde. Il possède des épines dorsales capables d'injecter un venin extrêmement puissant. Son camouflage est si efficace qu'il ressemble à une pierre ou à un morceau de corail, ce qui lui permet de rester immobile en attendant qu'une proie passe à proximité.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/127.png",
     "photos": []
   },
   {
@@ -2409,7 +2409,7 @@
     "anecdote": "Le poisson-scie possède un long rostre bordé de dents, ressemblant à une scie. Il l'utilise pour détecter ses proies grâce à des capteurs électriques, puis le balance rapidement de gauche à droite pour les assommer avant de les manger. Malgré son apparence, ce n'est pas un requin, mais une raie.",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/108.png",
     "photos": []
   },
   {
@@ -2428,7 +2428,7 @@
     "anecdote": "Une poule rousse peut pondre environ 250 à 300 œufs par an selon sa lignée et ses conditions de vie. Contrairement à une idée reçue, elle n'a pas besoin d'un coq pour pondre des œufs : le coq est uniquement nécessaire pour que les œufs soient fécondés.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/101.png",
     "photos": []
   },
   {
@@ -2447,7 +2447,7 @@
     "anecdote": "Le pygargue à tête blanche peut repérer un poisson à plusieurs centaines de mètres grâce à sa vue exceptionnelle, environ 4 à 5 fois plus perçante que celle d’un humain. Il est l’emblème national des États-Unis.",
     "categorieCarte": "signature",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/3.png",
     "photos": []
   },
   {
@@ -2466,7 +2466,7 @@
     "anecdote": "La raie manta est l'une des plus grandes raies du monde. Malgré sa taille impressionnante, elle est totalement inoffensive pour l'Homme : elle ne possède ni dard venimeux ni aiguillon, contrairement à de nombreuses autres espèces de raies.",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/84.png",
     "photos": []
   },
   {
@@ -2485,7 +2485,7 @@
     "anecdote": "La rainette aux yeux rouges possède de grands yeux rouges qui peuvent surprendre ses prédateurs lorsqu'elle les ouvre brusquement. Ses flancs bleus et jaunes ainsi que ses pattes orange vif servent également à créer un effet de surprise lorsqu'elle saute pour s'enfuir.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/104.png",
     "photos": []
   },
   {
@@ -2504,7 +2504,7 @@
     "anecdote": "Le renard roux possède une ouïe extrêmement développée. Il peut entendre un petit rongeur se déplacer sous la neige et plonger tête la première pour l'attraper avec une précision impressionnante.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/31.png",
     "photos": []
   },
   {
@@ -2523,7 +2523,7 @@
     "anecdote": "Contrairement à la plupart des autres espèces de cervidés, les mâles et les femelles portent tous les deux des bois. Les femelles les conservent même souvent tout l'hiver, ce qui leur permet de mieux défendre les zones où elles cherchent leur nourriture sous la neige.",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/37.png",
     "photos": []
   },
   {
@@ -2542,7 +2542,7 @@
     "anecdote": "Le requin baleine est le plus grand poisson du monde. Malgré sa taille gigantesque, il est totalement inoffensif pour l'Homme. Chaque individu possède un motif unique de taches blanches sur son corps, comparable à une empreinte digitale, permettant aux scientifiques de les identifier individuellement.",
     "categorieCarte": "cards",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/113.png",
     "photos": []
   },
   {
@@ -2561,7 +2561,7 @@
     "anecdote": "Le grand requin blanc est capable de détecter une seule goutte de sang diluée dans des millions de litres d'eau. Lorsqu'il chasse, il peut également surgir hors de l'eau à plus de 40 km/h pour surprendre ses proies, un comportement appelé brèche.",
     "categorieCarte": "fullart",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/76.png",
     "photos": []
   },
   {
@@ -2580,7 +2580,7 @@
     "anecdote": "La tête en forme de marteau du requin marteau lui offre un champ de vision presque à 360°. Elle est également couverte de capteurs électriques très sensibles, lui permettant de détecter des proies cachées sous le sable, même lorsqu'elles sont invisibles.",
     "categorieCarte": "cards",
     "etoiles": "5",
-    "carte": "",
+    "carte": "cartes/120.png",
     "photos": []
   },
   {
@@ -2599,7 +2599,7 @@
     "anecdote": "Le requin-tigre est surnommé « la poubelle des mers » en raison de son régime alimentaire extrêmement varié. Son estomac lui permet de digérer des proies très différentes, et il a même été retrouvé avec des objets non comestibles dans l'estomac.",
     "categorieCarte": "cards",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/64.png",
     "photos": []
   },
   {
@@ -2618,7 +2618,7 @@
     "anecdote": "Malgré sa mauvaise vue, le rhinocéros noir possède une ouïe et un odorat exceptionnels. Sa corne est constituée de kératine, la même matière que les cheveux et les ongles humains, et peut mesurer jusqu'à 1,5 mètre de long.",
     "categorieCarte": "fullart",
     "etoiles": "5",
-    "carte": "",
+    "carte": "cartes/114.png",
     "photos": []
   },
   {
@@ -2637,7 +2637,7 @@
     "anecdote": "La rhytine de Steller a été découverte par le naturaliste Georg Wilhelm Steller en 1741. Moins de 30 ans plus tard, elle avait déjà disparu, victime d'une chasse intensive pour sa viande, sa graisse et sa peau. C'est l'un des exemples les plus rapides d'extinction d'un grand mammifère marin causée par l'Homme.",
     "categorieCarte": "extinct",
     "etoiles": "5",
-    "carte": "",
+    "carte": "cartes/149.png",
     "photos": []
   },
   {
@@ -2656,7 +2656,7 @@
     "anecdote": "Le rossignol du Japon est réputé pour son chant mélodieux et très varié, capable d'imiter de nombreux sons. Malgré son nom, ce n'est pas un véritable rossignol, mais un passereau de la famille des Leiothrichidés, reconnaissable à son plumage vert olive, sa gorge jaune et son cercle oculaire blanc.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/78.png",
     "photos": []
   },
   {
@@ -2675,7 +2675,7 @@
     "anecdote": "Le rouge-gorge familier est un oiseau très territorial. Même en hiver, il défend farouchement son territoire en chantant presque toute l'année. Son célèbre poitrail orange lui sert aussi à impressionner ses rivaux lors des confrontations.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/87.png",
     "photos": []
   },
   {
@@ -2694,7 +2694,7 @@
     "anecdote": "Le sanglier possède un odorat extrêmement développé, qui lui permet de détecter de la nourriture enfouie sous plusieurs dizaines de centimètres de terre. Ses défenses, particulièrement développées chez les mâles, servent à se défendre contre les prédateurs et à s'affronter entre eux.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/125.png",
     "photos": []
   },
   {
@@ -2713,7 +2713,7 @@
     "anecdote": "Le secrétaire est célèbre pour sa technique de chasse unique : il tue les serpents à coups de pattes. Ses puissantes jambes peuvent frapper avec une vitesse et une force impressionnantes, lui permettant même de vaincre des serpents venimeux comme les cobras.",
     "categorieCarte": "cards",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/115.png",
     "photos": []
   },
   {
@@ -2732,7 +2732,7 @@
     "anecdote": "Le silure glane est le plus grand poisson d'eau douce d'Europe. Il possède de longs barbillons autour de la bouche qui lui servent à détecter ses proies, même dans une eau sombre ou trouble. Certains grands individus sont même capables de capturer des oiseaux posés à la surface de l'eau.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/116.png",
     "photos": []
   },
   {
@@ -2751,7 +2751,7 @@
     "anecdote": "La spatule blanche chasse d'une manière très particulière : elle balance son large bec en forme de spatule de gauche à droite dans l'eau. Dès qu'elle touche une proie, elle referme son bec en une fraction de seconde, même dans une eau trouble où elle ne peut presque rien voir.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/138.png",
     "photos": []
   },
   {
@@ -2770,7 +2770,7 @@
     "anecdote": "Le tapir de Malaisie est le plus grand des cinq espèces de tapirs. Son étonnante robe noire et blanche lui sert de camouflage dans la pénombre de la forêt tropicale. Malgré son apparence massive, il est un excellent nageur et peut traverser des rivières en utilisant son petit nez allongé comme un tuba.",
     "categorieCarte": "cards",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/129.png",
     "photos": []
   },
   {
@@ -2789,7 +2789,7 @@
     "anecdote": "Le tigre de Sibérie, aussi appelé tigre de l’Amour, est généralement considéré comme la plus grande population de tigres par la taille corporelle. Son épaisse fourrure et sa couche de graisse lui permettent de supporter des températures pouvant descendre très largement sous zéro. Malgré sa puissance, il peut parcourir plusieurs dizaines de kilomètres en une seule journée à la recherche de proies.",
     "categorieCarte": "nomade",
     "etoiles": "2",
-    "carte": "",
+    "carte": "cartes/1005.png",
     "photos": []
   },
   {
@@ -2808,7 +2808,7 @@
     "anecdote": "Malgré son nom de « tigre », le tigre de Tasmanie n'était pas un félin mais un marsupial carnivore. Ses rayures lui ont valu ce surnom, et il pouvait ouvrir sa mâchoire jusqu'à près de 120°, une amplitude exceptionnelle parmi les mammifères.",
     "categorieCarte": "extinct",
     "etoiles": "5",
-    "carte": "",
+    "carte": "cartes/150.png",
     "photos": []
   },
   {
@@ -2827,7 +2827,7 @@
     "anecdote": "Le tigre du Bengale est un excellent nageur, contrairement à la plupart des félins. Il peut parcourir plusieurs kilomètres à la nage pour traverser des rivières ou chasser dans les mangroves, comme celles des Sundarbans.",
     "categorieCarte": "fullart",
     "etoiles": "4",
-    "carte": "carte-tigre-bengale.png",
+    "carte": "cartes/60.png",
     "photos": []
   },
   {
@@ -2846,7 +2846,7 @@
     "anecdote": "La tortue des Galápagos est la plus grande tortue terrestre au monde. Grâce à son métabolisme très lent, elle peut survivre près d'un an sans manger ni boire, une adaptation précieuse sur ces îles volcaniques où les ressources peuvent être rares.",
     "categorieCarte": "cards",
     "etoiles": "2",
-    "carte": "",
+    "carte": "cartes/130.png",
     "photos": []
   },
   {
@@ -2865,7 +2865,7 @@
     "anecdote": "Grâce à son bec fin et recourbé, la tortue imbriquée peut atteindre les éponges cachées dans les fissures des récifs coralliens. En les consommant, elle contribue à maintenir les récifs en bonne santé et favorise la biodiversité marine.",
     "categorieCarte": "cards",
     "etoiles": "5",
-    "carte": "",
+    "carte": "cartes/38.png",
     "photos": []
   },
   {
@@ -2884,7 +2884,7 @@
     "anecdote": "La tortue luth est la plus grande tortue marine vivante. Contrairement aux autres tortues marines, elle ne possède pas de carapace dure : son dos est recouvert d'une peau épaisse et caoutchouteuse. Elle peut également plonger à plus de 1 000 mètres de profondeur à la recherche de méduses.",
     "categorieCarte": "fullart",
     "etoiles": "3",
-    "carte": "",
+    "carte": "cartes/50.png",
     "photos": []
   },
   {
@@ -2903,7 +2903,7 @@
     "anecdote": "La tortue verte doit son nom non pas à la couleur de sa carapace, mais à la couleur verdâtre de sa chair, due aux pigments présents dans son alimentation. Elle peut également parcourir des milliers de kilomètres entre ses zones d'alimentation et les plages où elle vient pondre.",
     "categorieCarte": "cards",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/39.png",
     "photos": []
   },
   {
@@ -2922,7 +2922,7 @@
     "anecdote": "Le toucan toco possède le plus grand bec proportionnellement à la taille de son corps parmi tous les oiseaux. Malgré son apparence impressionnante, ce bec est très léger, car il est constitué d'une structure interne alvéolée. Il lui sert à attraper les fruits, à impressionner ses rivaux et même à réguler sa température corporelle.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/112.png",
     "photos": []
   },
   {
@@ -2941,7 +2941,7 @@
     "anecdote": "La vache normande est reconnaissable à sa robe blanche tachetée de noir ou de brun et à ses caractéristiques « lunettes » autour des yeux. C'est une race mixte particulièrement appréciée pour son lait riche en matières grasses et en protéines, utilisé notamment pour fabriquer des fromages normands comme le camembert, le livarot et le pont-l'évêque.",
     "categorieCarte": "fullart",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/20.png",
     "photos": []
   },
   {
@@ -2960,7 +2960,7 @@
     "anecdote": "Le vautour fauve possède une vue exceptionnelle et peut repérer une carcasse à plusieurs kilomètres de distance. Il joue également un rôle essentiel dans la nature en éliminant rapidement les carcasses, limitant ainsi la propagation de certaines maladies.",
     "categorieCarte": "nomade",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/1002.png",
     "photos": []
   },
   {
@@ -2979,7 +2979,7 @@
     "anecdote": "Le ver de terre joue un rôle essentiel dans la fertilité des sols. En creusant ses galeries, il aère et mélange la terre, facilite l'infiltration de l'eau et transforme la matière organique en éléments nutritifs utilisables par les plantes.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/80.png",
     "photos": []
   },
   {
@@ -2998,7 +2998,7 @@
     "anecdote": "Le wallaby de Bennett est capable de faire des bonds de plusieurs mètres grâce à ses puissantes pattes arrière. Sa queue lui sert de balancier lorsqu'il saute et peut également l'aider à maintenir son équilibre lorsqu'il se déplace lentement.",
     "categorieCarte": "cards",
     "etoiles": "1",
-    "carte": "",
+    "carte": "cartes/82.png",
     "photos": []
   },
   {
@@ -3017,7 +3017,7 @@
     "anecdote": "Chaque zèbre possède un motif de rayures unique, comparable aux empreintes digitales chez l'Homme. Ces rayures permettent aux individus de se reconnaître et peuvent aussi perturber les prédateurs lorsqu'un troupeau est en mouvement.",
     "categorieCarte": "cards",
     "etoiles": "4",
-    "carte": "",
+    "carte": "cartes/56.png",
     "photos": []
   }
 ]
