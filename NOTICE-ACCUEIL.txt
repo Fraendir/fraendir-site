@@ -1,0 +1,7 @@
+ACCUEIL FRAENDIR V2
+
+Cette version modifie uniquement index.html et ajoute accueil-v2.css. Les autres pages restent identiques.
+
+Pour publier sur GitHub : téléverser index.html et accueil-v2.css à la racine du dépôt, puis valider les modifications.
+
+Le visuel de la boîte Animoria de la maquette n’étant pas dans le ZIP reçu, une illustration existante est utilisée temporairement dans le bloc Animoria.
